@@ -1,5 +1,5 @@
-# Glioblastoma EEL-FISH
-*Glioblastoma is spatially organized by neurodevelopmental programs and a glial-like wound healing response* (Mossi Albiach & Janusauskas et al. 2023, in review).
+# Glioblastoma is spatially organized by neurodevelopmental programs and a glial-like wound healing response
+(Mossi Albiach & Janusauskas et al. 2023, in review)*.
 
 ![Model.pdf](files/scheme.jpg)
 
