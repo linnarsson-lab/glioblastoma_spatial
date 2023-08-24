@@ -8,7 +8,7 @@
 [Gene expression matrix](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/GBM_Linnarsson_EEL.h5ad)
 
 ## Download the molecules spatial coordinates
-[Spatial Coordinates Molecules](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/MoleculesLibrary.tar.gz)
+[Molecules Spatial Coordinates](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/MoleculesLibrary.tar.gz)
 
 ## Code
 We use the [FISHscale](https://github.com/linnarsson-lab/FISHscale) pipeline for unsupervised cell-free segmentation (m-states) and visualization.
