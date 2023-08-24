@@ -1,7 +1,7 @@
 # Glioblastoma EEL-FISH
 *Glioblastoma is spatially organized by neurodevelopmental programs and a glial-like wound healing response* (Mossi Albiach & Janusauskas et al. 2023, in review).
 
-![Model.pdf](https://github.com/linnarsson-lab/glioblastoma_spatial/files/scheme.jpg)
+![Model.pdf](files/scheme.jpg)
 
 ## Download the m-cell gene expression matrix with polygons and coordinates
 
