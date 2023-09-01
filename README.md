@@ -5,7 +5,9 @@
 
 ## Download the m-cell gene expression matrix with polygons and coordinates
 
-[Gene expression matrix](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/GBM_Linnarsson_EEL.h5ad). We use the  pipeline for unsupervised cell-free segmentation (m-states) and visualization. We use the [FISHspace](https://github.com/linnarsson-lab/FISHspace) software for plotting m-cells and further analysis. FISHspace software is based on stlearn (https://stlearn.readthedocs.io/en/latest/) with added plotting and processing functions.
+[Gene expression matrix](https://storage.googleapis.com/linnarsson-lab-glioblastoma/EEL/DataSubmission/GBM_Linnarsson_EEL.h5ad). 
+
+We use the [FISHscale](https://github.com/linnarsson-lab/FISHscale) pipeline for unsupervised cell-free segmentation (m-states). We use the [FISHspace](https://github.com/linnarsson-lab/FISHspace) software for plotting m-cells and further analysis. FISHspace software is based on stlearn (https://stlearn.readthedocs.io/en/latest/) with added plotting and processing functions.
 
 
 ## Download the molecules spatial coordinates
