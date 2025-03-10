@@ -1,5 +1,5 @@
-# Glioblastoma is spatially organized by neurodevelopmental programs and a glial-like wound healing response
-*(Mossi Albiach & Janusauskas et al. 2023, in review)*.
+# Futile wound healing drives mesenchymal-like cell phenotypes in human glioblastoma
+*(In review)*.
 
 ![Model.pdf](files/scheme.jpg)
 
